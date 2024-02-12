@@ -1,0 +1,34 @@
+1. Ejemplo de recorrido de un array unidimensional en java
+Programa que lee por teclado la nota de los alumnos de una clase y calcula la nota media de un grupo. También muestre los alumnos con notas superiores a la media. El número de alumnos se lee por teclado.
+
+Este programa crea un array de elemento de tipo double que contradrá las notas de los alumnos. El tamaño del array será el número de alumnos de la clase.
+
+
+Se realizan 3 recorridos sobre el array, el primero para asignar a cada elemento las notas introducidas por teclado, el segundo para sumarlas y el tecero para mostrar los alumnos con notas superiores a la media.
+
+2. ¡Claro! Aquí tienes un ejercicio similar que te ayudarpa a practicar el manejo de arreglos unidimensionales en Java. Este programa calculará el promedio de edades de un grupo de personas y mostrará las edades que están por encima de la media.
+
+3. Declara un array tipo int (entero) denominado numerodecoches que contenga 24 variables. Declara una variable tipo int(entero) que se llame r. Establece el valor de r en 2 y el valor de numerodechoches para un localizador de valor r en 23. Procede a mostrar en pantalla un mensaje que indique cuál es la hora r y el número de coches para la hora r. Finalmente, modifica únicamente la asignación de valor a r de modo que en vez de 2 sea 21 y ejecuta de nuevo el programa.
+
+4. Programa 2
+Sobre el programa anterior mantén el número de lementos de numerodecoches en 24. Declara dos variables a y b de tipo int(entero). Establece a con el valor 8,b con el valor 4 y r con el valor a dividido entre b. Ejecuta el programa.
+
+5. Crea un array de 10 posiciones de números con valores pedidos por teclado. Muestra por consola el indice y el valor al que corresponde. Haz dos métodos uno para rellerar valores yotro para mostrar.
+
+
+6. Crea un array de un número donde le indcamos por teclado el tamaño del array rellenaremos el array con números aleatorios entre 0 y 9, al final muestra por pantalla el valor de cada posición y la suma de todos los valores. Haz un método para rellenar el array (que tenga como parametro los números entre los que tengo que generar), para mostrar el contenido y la suma del array un método privado para generar número aletorio (lo puedes usara para otros ejercicios).
+
+
+7. Crea un array de números de un tamaño pasado por teclado el array contendra npumeros aleatorios primos entre los números deseados por último nos indíca cual es el mayor de todos.
+
+Haz un método para comprobar que el número aleatorio es primo, puedes jacer todos los métodos que necesites.
+
+
+
+
+
+
+
+
+
+

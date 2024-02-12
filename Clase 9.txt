@@ -1,0 +1,107 @@
+1. Escribir un algoritmo que permita ingresar un número "n" de estudiantes ( se cumple que: 10 <= n <= 20), cada uno de los cuáles cursa 4 materias. Para cada alumno se ingresa el nombre y sus calificaiones. Escriba un algoritmo para calcular el promedio de cada estudiante luego de ingresar sus notas.
+
+
+2. Escribir un algoritmo que permita crear una matriz MxN donde el usuario ingresa los valores de M  ( filas ) y N (columnas). Todos los elementos se rellenan con el símbolo *
+
+
+Por ejemplo, si el usuario ingres M = 2 y N = 3 se debe mostrar: 
+
+
+			* * *
+
+			* * *
+
+
+3. Realizar un pseudocódigo y su diagrama de flujo que permita ingresar las 5 notas de "n" estudiantes. Luego que muestre el promedio de notas de cada estudiante y un mensaje de "Aprobado" o "Desaprobado" ( se aprueba con 11.5 o más)
+
+
+Consideraciones:
+
+
+• Se debe validar que las notas estén entre 0 y 20
+
+• Además, el valor de "n" debe ser positivo.
+
+• No se debe interrumpir la ejecución si un valor es errado, se debe volver a pedir.
+
+
+4. Construir un pseudocódigo que valide las credenciales de un usuario. Si las credenciales son válidas debe mostrar el mensaje "Bienvenido" y salir del bucle, sino "Inténtelo de nuevo". Debe permitir repetir el proceso como máximo de 3 veces. Luego mostrar el mensaje "CUENTA BLOQUEADA" usando la estructura REPETIR - HASTA QUE
+
+
+Las credenciales son:
+
+
+Usuario: admin
+
+Clave: utp789
+
+
+5. Elabore un pseudocódigo y su diagrama de flujo que calcule y muestre el cubo de los primeros "n" números naturales.
+
+
+Consideraciones
+
+
+• "n" es un valor que se ingresa
+
+• Validar que "n" es un valor positivo
+
+• Emplear la estructura PARA y MIENTRAS (2 soluciones).
+
+
+
+6. Crear un psudocódigo que permita calcular el pago que hacen un grupo de personas para ver una película teniendo en cuenta que si el grupo es menor de 5 personas el pago es de 20 soles por persona y para grupos de 5 hasta 8 personas el pago es 18 soles por persona, para grupos de 9 a 12 personas es de 15 soles por persona y para más de 15 es de 12.50 soles por persona. Se debe mostrar el número de personas , el pago por persona y el pago total.
+
+
+
+6. Crear un psudocódigo que permita calcular el pago que hacen un grupo de personas para ver una película teniendo en cuenta que si el grupo es menor de 5 personas el pago es de 20 soles por persona y para grupos de 5 hasta 8 persona el ágp es de 18 soles por persona, para grupos de 9 a 12 personas es de 15 soles por persona y para más de 15 es de 12.50 soles por persona. Se debe mostrar el número de personas, el pago por persona y el pago total.
+
+
+7. Ingresar la cantidad de alumnos aprobados y desaprobados de un curso. Luego mostrar el porcentaje de estudiantes aprobados y el porcentaje de estudiantes desaprobados.
+
+8. Elaborar un algoritmo para el siguiente caso: una empresa de seguros asegura una casa ante desastres cobrando una prima anual de acuerdo con el valor de la casa. Para los primeros $25000 cobra el 3% del valor y para el valor restante 5%.
+
+
+Por ejemplo, si una casa está valorizada en $30000, cobrará 3% sobre los $25000 y 5% al resto, es decir 5% a $500. Haga programa que muestre el monto de in cliente debe ágar ´pr asegirar si casa- Descarte casas con valores superiores a los $100000.
+
+
+9. Escribir un programa que determine si un año es bisiesto. Un año bisiesto si es múltiplo de 4 (por ejemplo 1984). Los años múltiplos de 100 no son bisiestos, salvo si ellos son también múltiplos de 400 (2000 es bisiesto, pero 1800 no lo es).
+
+
+10. Construir un algoritmo que permita ingresar un número entero y muestre si es negativo, creo o positivo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

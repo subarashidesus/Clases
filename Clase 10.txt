@@ -1,0 +1,74 @@
+1. Diseñe un algoritmo que lea un número de tres cifras y determine si es igual al revés del número
+
+Observación: Como el número tiene tres cifras, para que se igual al revés, basta con que la cifra de las unidades sea igual a la cifra de las centenas. Por ejemplo: 353,878, etc.
+
+
+2. Desarrollar un psuedocódigo que luego de ingresar 2 números naturales, donde el segundo debe ser mayor que el primero, por teclado. Muestre los números naturales pares que hay entre ambos.
+
+NOTA: el pseudocódigo debe validar que el primer valor es un natural y el segundo es mayor que el primero, sin interrumpir la ejecución.
+
+
+3. Mediante pseudocódigo crear una pirámide invertida usando el símbolo @ con la siguiente forma:
+
+
+@@@@@@@@@@
+@@@@@@@@@
+@@@@@@@@
+@@@@@@@
+@@@@@@
+@@@@@
+@@@@
+@@@
+@@
+@
+
+4. Se desea crear un algoritmo para un sistema de votación. Supóngase en este caso que hay cuatro candidatos, con identificadores 1, 2, 3, 4. Usted habrá de calcular mediante un programa, el número de votos correspondientes a cada candidato. El usuario ingresará los votos de manera desorganizada, tal y como se obtuvieron en la elección. El conteo de votos se detiene si se ingresa el valor cero. Observe, como ejemplo, la siguiente lista: 1 3 1 4 4 1 2 4 4 0
+
+
+5.Construir un pseudocódigo para calcular cuántas personas son mayores de edad y cuántas son menores de un grupo de 20 personas, cuyas edades se ingresan por el usuario. Finalmente mostrar el porcentaje de mayores y menores de edad.
+
+
+
+
+6. Ingrese un número natural de dos cifras y muestre el mensaje "Es capicúa" o "No es capicúa" según sea el caso
+
+
+7. Construir un pseuidcódigo que permita ingresar dos números y un símbolo ( +, -, x, /) y dependiendo del operador devuelva la suma, la diferencia, el producto o la división. Nota: verificar que el divisor no sea cero y mostrar un advertencia si se ingresa un valor diferente a esos simbolos.
+
+8.Elabore un programa que permita ingresar el número del mes e imprima en pantalla el nombre del mes correspondiente, si el usuario ingresa un valor fuera del rango de [ 1 - 12 ) mostrar una advertencia.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

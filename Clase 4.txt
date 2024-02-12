@@ -1,0 +1,122 @@
+1. Realizar un pseudocódigo que pida ingresar un número natural, en caso sea superior a 100 se mostrará su 30% de no ser así visualice su 150% 
+
+
+2. Elaborar un pseudocódigo donde se ingrese por teclado un número natural de hasta 2 cifras, si tiene una cifra muestre lo mínimo que le falta para se un número de 2 cifra; de lo contrario muestre lo mínimo que le falta para ser un número de 2 cifras; de lo contrario muestre lo mínimo que le falta para ser un número de 3 cifras. Considerar, que el usuario ingresa números de hasta dos cifras.
+
+
+3. Contruir un algoritmo que permita ingresar un número entero y muestre si es negativo, creo o positivo.
+
+
+4. A un trabajador le descuentan de su sueldo el 10% si su sueldo es menor o igual a 1000, por encima de 100 hasta 2000 el 5% del adicional, y por encima de 2000 el 3% del adicional. Calcular el descuento y el sueldo neto que recibe el trabajador dado un sueldo.
+
+5. Una empresa requiere un sistema de cálculo de bonos de fin de año para los trabajadores, elabore un algoritmo que reciba el salario mensual de un trabajador. Luego calcule y muestre sus utilidades si este se asigna como un porcentaje de lo que ha ganado durante el año dependiendo de su antigüedad en la empresa de acuerdo con la siguiente tabla:
+
+
+-----------------------------------------------------------------------
+|       Tiempo                          |        Utilidad             |
+|----------------------------------------------------------------------
+|  Menos de 1 año                       |       5%                    |
+|----------------------------------------------------------------------
+|   Desde 1 año hasta menos de 2 años   |        7%                   |
+|---------------------------------------------------------------------|
+|   Desde 2 años hasta menos de 5 años  |        10%                  |
+|---------------------------------------------------------------------|
+|   Desde 5 años hasta menos de 10 años |        15%                  |
+|---------------------------------------------------------------------|
+| 10 años o más                         |        20%                  |
+|---------------------------------------------------------------------|
+
+
+
+
+
+
+5. Ingresar la cantidad de alumnos aprobados y desaprobados de un curso. Luego mostrar el porcentaje de estudiantes aprobados y el porcentaje de estudiante desaprobados. 
+
+
+
+6. Elaborar un algoritmo para el siguiente caso: una empresa de seguros asegura una casa ante desastres cobrando una prima anual de acuerdo con el valor de la casa. Para los primeros $25000 cobra el 3% del valor y para el valor restante 5%. Por ejemplo, si una casa está valorizada en $30000, cobrará 3% sobre los $25000 y 5% al resto, es decir 5% a 5000. Haga un programa que muestre el monto que un cliente debe pagar por asegurar su casa. Descarte casas con valores superiores a los $100000
+
+
+
+
+7. Escribir un programa que determine si un año es bisiesto. Un año es bisiesto si es múltiplo de 4 ( por ejemplo 1984 ). Los años múltiplos de 100 no son bisiestos, salvo si ellos son también múltiplos de 400 ( 2000 es bisiesto, pero 1800 no lo es ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

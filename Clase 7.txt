@@ -1,0 +1,48 @@
+1. Construir un pseudocódigo que imprima los números pares entre 0 y 100
+
+
+
+Solución usando MOD
+
+
+
+
+Soluci+on usando el contrado que avance de 2 en 2
+
+
+
+2. Calcular el salario total de un grupo de "n" trabajadores ( el valor "n" se ingresa por teclado) dada la cantidad de horas trabajadas y la tarifa por hora para cada uno de los trabajadores.
+
+
+3. Construir un programa que al ingresar un valor calcular su factorial.
+
+
+4. Realizar un pseudocódigo que imprima los números impares entre 0 y 50
+
+
+5. Construir un programa que pida ingresar un número, luego muestre la tabla de multiplicar de dicho número del 1 al 12
+
+6. Desarrollar un pseudocódigo que luego de ingresar 2 números naturales imprima los números naturales que hay entre ambos empezando por el menor. Asumimos que el usuario ingresa dos números diferentes y el segundo es mayor que el primero.
+
+
+7. Calcular el precio total de una compra de "n" productos ( el valor "n" se ingresa por teclado) si se ingresar el precio de cada producto y la cantidad comprada de este.
+
+
+8. Construir un la algoritmo que permita ingresar un número entero calcular su factorial. Emplear la estructura repetitiva MIENTRAS.
+
+9. Dado un número entero positivo cualquiera, invertirlo y mostrarlo en pantalla.
+
+10. Crear un algoritmo en pseudocódigo que permita ingresar un número positivo y muestre el número de cifras de este.
+
+
+
+
+
+
+
+
+
+
+
+
+

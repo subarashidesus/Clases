@@ -1,0 +1,44 @@
+1. Evaluar el valor de la verdad de la siguiente expresión:
+
+
+
+(21 MOD 4) = 8
+
+
+
+2. Evaluar el valor de verdad de la siguiente expresión:
+
+
+
+(15 MOD 7) > (45 / 9)
+
+
+
+
+3. Evaluar el valor de verdad de la siguiente expresión si a = 4, b = 8 y c =2
+
+
+(a < b) Y (b >= c)
+
+4. Evaluar el valor de verdad de la siguiente expresión
+
+
+
+( 15 MOD 2 ) = 1
+
+
+5. Digite el importe de una compra, en caso de que el importe sea 150 o más, se le descontará el 12%. Mostrar el descuento otorgado y el importe final;
+
+
+6. Ingrese el nombre de un alumno y las notas de su examen parcial, examen final y el promedio de prácticas; muestre el nombre del alumno y su promedio final solo si el alumno está aprobado. Tenga en cuenta que para el cálculo del promedio la nota del examen final tiene peso doble.
+
+7. Elaborar un algoritmo que permita ingresar el nombre del trabajador, su sueldo básico y el número de hijos, se deberá mostrar su bonificación y el sueldo final. Tenga en cuenta que la empresa está dando una bonificación del 7% del sueldo básico sólo en el caso el trabajador tuviese hijos.
+
+8. Construir un psudocódigo que permita ingresar un número, si el número es mayor de 500, se debe calcular y mostrar en pantalla el 18% de este.
+
+9. Crear una calculadora de división en pseudocódigo, que permita ingresar dos números y muestre el cociente. En caso de ingresar cero en el divisor nos debe decir: "No se puede dividir entre cero"
+
+10. Realizar un algoritmo que pida dos números enteros, luego muestre el mayor. Considere que se ingresan valores diferentes.
+
+
+

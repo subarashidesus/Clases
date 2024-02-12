@@ -1,0 +1,101 @@
+1. Crea un array de números de 100 posiciones, que contenga los números del 1 al 100. Obtén la suma de todos ellos y la media.
+
+
+2. En este ejercicio, he cambiado el tamaño del array a 50 y he llenado el array con números pares del 2 al 100. Luego, he calculado la suma y la media, y finalmente he mostrado el array de npumeros pares junto con la suma y la media. !Espero que encuentres útil este ejercicio! Si tienes alguna otra pregunta o necesitas más ejemplos, estoy aquí para ayudar
+
+
+3. Crea un array de caracteres que contenga de la 'A' a la 'Z' (solo las mayúsculas). Después ve piediendo posiciones del array por teclado y si la posición es correcta, se añadira a una cadena que se mostrara al final, se dejará de insertar cuadno se introduzca un -1
+
+
+Por ejemplo, si escribo los siguientes números
+
+0 // Añadira la 'A'
+5 // Añadira la 'F'
+25 // Añadira la 'Z'
+50 // Error, inserte otro numero
+-1 // fin
+
+Cadena resultante: AFZ
+
+4. Crea un array de strings que contenga nombre de colores. Luego, solicita al usuario que ingrese índices del array por teclado. Si el índice es valido, agrega el color correspondiente a una cadena que muestrará al final. Detén la inserción cuando se ingrese un índice inválido (fuera del rango del array). Al final, muestra la cadena resultante.
+
+
+Ejemplo de interacción:
+
+Ingresa el índice ( 0 a 4) o -1 para terminar
+
+2
+
+Ingresa el índice ( 0  a 4 ) o -1 para terminar
+
+0
+
+Ingresa el índice ( 0 a 4 ) o -1 para terminar
+
+5
+
+Índice invalido. Ingresa otro número o - 1 para terminar
+
+Ingresa el índice ( 0 a 4 ) o -1 para terminar
+
+Cadema resultante: VerdeAzulAmarillo
+
+5. Pide al usuario por teclado una frase y pasa sus caracteres a un array de caracteres. Puedes hacer con o sin métodos de String
+
+
+
+6. Escriba un programa en Java que solicite al usuario ingresar una palabra y luego almacene cada uno de sus caracteres en un array. Utiliza métodos de la clase String para realizar esta tarea.
+
+
+7. Crea dos arrays de numeros una posición pasada por teclado
+
+Uno de ellos estara rellenando con numeros aleatorios y el otro apuntara al array anterior después crea un nuevo array con el primer array ( usa de nuevo new con el primer array) con el mismo tamaño que se ha pasado por teclado, rellenalo de nuevo con números aleatorios.
+
+Después, crea un método que tenga como parámetros, los dos arrays y devuelva uno nuevo con la multiplicación de la posición 0 del array1 con el del array2 y asi sucesivamente. Por último, 
+
+
+
+8. Gestión de Estudiantes
+
+Crea un programa en Java que permita gestionar la información de estudiantes. El usuario debe ingresar la cantidad de estudiantes a gestionar. Luego, el programa debe crear dos arrays de igual tamaño: uno para almacenar nombres de estudiantes y otro para almacenar sus calificaciones.
+
+Rellena el array de nombre con nombre de estudiantes ingresados por el usuario y el array de calificaciones con valores aleatorios entre 0 y 100. A continuación, crea un nuevo array de calificaciones (`arrayNotasAjustadas`) que contenga las calificaiones originales multiplicadas por 1.1.
+
+Implmenta un método llamado `mostrarInformaciónEstudiantes` que tome como parámetros los arrays de nombrres y calificaciones, y muestre en la consola la información de cada estudiante, incluyendo su nombre y calificación original, así como la calificación ajustada.
+
+Finalmente, muestra en la consola la información de todos los estudiantes llamando al método `mostrarInformacionEstudiantes`. Luego, utiliza el recolector de basura para liberara los recursos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

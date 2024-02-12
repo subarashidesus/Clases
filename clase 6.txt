@@ -1,0 +1,92 @@
+1. Construir un pseudocódigo que permitai ngresar dos números y un símbolo ( +, -, x, / ) y dependiendo del operador devuelva la suma, la diferencia, el producto o la división. Nota: verificar que el divisor no sea cero y mostrar una advertencia si se ingresa un valor diferente a esos símbolos.
+
+
+2. Una tienda distribuidora de ropa ha establecido porcentajes de descuento sobre el monto comprado de la siguienta forma.
+
+
+
+
+
+
+                   ------------------------------------------------------
+                   |                          |                         |
+                   |         Varones          |  	Mujeres         |
+                   | 			      |			        |
+-------------------------------------------------------------------------
+| origen / Talla   |        |       |	      |         |      |        |
+|                  |   S    |  M    |    L    |     S 	|   M  |   L    |
+|                  |        |       |	      |	  	|      |        |
+|------------------------------------------------------------------------
+|		   |	    | 	    |	      | 	|      |        |
+|      Nacional    |   10   |   12  |   15    |    15   |   17 |   20   |
+|------------------------------------------------------------------------
+| 		   |        |       |         |         |      |        |
+|   Importado      |   5    |     7 |   10    |    7    |   9  |   12   |
+-------------------------------------------------------------------------
+
+
+Realizar un programa en pseudocódigo donde se ingresa el monto comprado (en soles), el género, talla y origen. Luego debe mostrar el monto comprado, el importe del descuento y el monto a pagar.
+
+
+3. Dado el peso, la altura y el sexo, de unos estudiantes. Realizar un programa en psudocòdigo que determine la cantidad de vitaminas que deben consumir estos estudiantes, en base al siguiente criterio:
+
+
+• Si son varones, y su estatura es mayor a 1.60, y su peso es mayor o igual a 150 lb, su dosis, seràn 20% de la estatura y 80% de su peso. De lo contrario, la dosis serà la siguiente: 30% de la estarua y 70% de su peso.
+
+• Si son mujeres, y su estatura es mayor de a 1.50 m y su peso es mayor o igual a 130lb, su dosis serà: 25% de la estarura y 75% de su peso. De lo contrario, la dosis serà: 35% de la estatura y 65% de su peso. La dosis debe ser expresadas en gramos.
+
+
+
+
+
+
+4. Una agencia de seguros para autos asigna costos mensuales en base al sexo y edad del conductor. Los varones menores de 25 años pagan 1000 soles, los de 25 a más pagan 700 soles. Las mujeres de 21 años o menos de pagan 500 y las que tiene más de 21 años paga 300 soles. Realizar un programa en pseudocódigo que solicite la edad y sexo de la persona, luego de acuerdo con la mencionado muestre el costo mensual del seguro en pantalla.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
